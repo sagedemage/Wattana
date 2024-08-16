@@ -2,6 +2,8 @@
 
 A simple 2D game written in C++ using SFML.
 
+![Wattana window](./screenshots/wattana_window.webp)
+
 ## Install
 ```
 sudo apt-get install libsfml-dev
